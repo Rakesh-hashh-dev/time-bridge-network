@@ -27,7 +27,7 @@ const Index = () => {
           <br />
           <span className="text-primary">Grow together.</span>
         </h1>
-        <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted-foreground" style={{ animationDelay: "0.1s", animationFillMode: "forwards", opacity: 0 }} className-extra="animate-fade-in-up">
+        <p className="mt-6 max-w-xl animate-fade-in-up text-lg leading-relaxed text-muted-foreground" style={{ animationDelay: "0.1s" }}>
           SkillBridge connects underemployed youth through time-banking. No money needed — just your time and talent.
         </p>
         <div className="mt-8 flex gap-3" style={{ animationDelay: "0.2s" }}>
