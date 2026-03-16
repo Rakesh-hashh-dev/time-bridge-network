@@ -1,5 +1,4 @@
 import { Button } from "@/components/ui/button";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Clock, Star } from "lucide-react";
 
